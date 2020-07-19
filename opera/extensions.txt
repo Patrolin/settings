@@ -1,0 +1,30 @@
+
+BetterTTV
+https://clients2.google.com/service/update2/crx
+
+Old School GitHub
+https://clients2.google.com/service/update2/crx
+
+uBlock Origin
+https://clients2.google.com/service/update2/crx
+
+FrankerFaceZ
+https://clients2.google.com/service/update2/crx
+
+Wappalyzer
+https://clients2.google.com/service/update2/crx
+
+Watch on LBRY
+https://clients2.google.com/service/update2/crx
+
+Chromium Wheel Smooth Scroller
+https://clients2.google.com/service/update2/crx
+
+__MSG_name__
+https://extension-updates.opera.com/api/omaha/update/
+
+__MSG_extName__
+https://extension-updates.opera.com/api/omaha/update/
+
+Tampermonkey
+https://extension-updates.opera.com/api/omaha/update/

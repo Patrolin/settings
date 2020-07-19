@@ -1,0 +1,3 @@
+for i in $(ls ~/.config/opera/Extensions/*/*/manifest.json); do printf '\n'; jq -r '.name,.update_url' $i; done > extensions.txt
+jq . ~/.config/opera/Preferences > Preferences
+#cp ~/.config/opera/'Web Data' 'Web Data'# SQLite database with search engines and passwords so eh...
