@@ -8,7 +8,7 @@ https://clients2.google.com/service/update2/crx
 uBlock Origin
 https://clients2.google.com/service/update2/crx
 
-FrankerFaceZ
+Archive Page
 https://clients2.google.com/service/update2/crx
 
 Wappalyzer

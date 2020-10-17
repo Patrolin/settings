@@ -4,6 +4,7 @@ code --install-extension 844196.vscode-php-symbol-rename
 && code --install-extension bmewburn.vscode-intelephense-client
 && code --install-extension CoenraadS.bracket-pair-colorizer-2
 && code --install-extension esbenp.prettier-vscode
+&& code --install-extension eserozvataf.one-dark-pro-monokai-darker
 && code --install-extension felixfbecker.php-debug
 && code --install-extension GitHub.vscode-pull-request-github
 && code --install-extension goessner.mdmath
@@ -13,11 +14,14 @@ code --install-extension 844196.vscode-php-symbol-rename
 && code --install-extension James-Yu.latex-workshop
 && code --install-extension JoeBerria.statusbarerror
 && code --install-extension jprestidge.theme-material-theme
+&& code --install-extension kosz78.nim
 && code --install-extension lamartire.git-indicators
 && code --install-extension mechatroner.rainbow-csv
 && code --install-extension mhmadhamster.postcss-language
 && code --install-extension ms-azuretools.vscode-docker
 && code --install-extension ms-python.python
+&& code --install-extension ms-python.vscode-pylance
+&& code --install-extension ms-vscode.cpptools
 && code --install-extension piotrpalarz.vscode-gitignore-generator
 && code --install-extension PKief.material-icon-theme
 && code --install-extension pranaygp.vscode-css-peek
@@ -27,6 +31,7 @@ code --install-extension 844196.vscode-php-symbol-rename
 && code --install-extension srmeyers.git-prefix
 && code --install-extension steoates.autoimport
 && code --install-extension vittorioromeo.expand-selection-to-scope
+&& code --install-extension vsciot-vscode.vscode-arduino
 && code --install-extension vscjava.vscode-java-debug
 && code --install-extension vscjava.vscode-java-dependency
 && code --install-extension wix.vscode-import-cost
