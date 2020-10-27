@@ -1,1 +1,0 @@
-pacman -Qe > packages.txt
