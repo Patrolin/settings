@@ -1,9 +1,12 @@
 code --install-extension 844196.vscode-php-symbol-rename
+&& code --install-extension AugusteRame.zls-vscode
 && code --install-extension bmewburn.vscode-intelephense-client
 && code --install-extension CoenraadS.bracket-pair-colorizer-2
+&& code --install-extension dbaeumer.vscode-eslint
 && code --install-extension esbenp.prettier-vscode
 && code --install-extension eserozvataf.one-dark-pro-monokai-darker
 && code --install-extension felixfbecker.php-debug
+&& code --install-extension ghmcadams.lintlens
 && code --install-extension GitHub.vscode-pull-request-github
 && code --install-extension goessner.mdmath
 && code --install-extension IBM.output-colorizer
@@ -15,9 +18,12 @@ code --install-extension 844196.vscode-php-symbol-rename
 && code --install-extension ms-azuretools.vscode-docker
 && code --install-extension ms-python.python
 && code --install-extension ms-python.vscode-pylance
+&& code --install-extension ms-toolsai.jupyter
 && code --install-extension ms-vscode.cpptools
 && code --install-extension PKief.material-icon-theme
-&& code --install-extension pranaygp.vscode-css-peek
 && code --install-extension redhat.vscode-yaml
 && code --install-extension srmeyers.git-prefix
+&& code --install-extension tiehuis.zig
 && code --install-extension Zignd.html-css-class-completion
+&& code --install-extension ZixuanWang.linkerscript
+
