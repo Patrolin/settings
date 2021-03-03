@@ -23,7 +23,13 @@
   "window.restoreFullscreen": true,
   "window.openWithoutArgumentsInNewWindow": "off",
   // COLOR HELPER
-  "colorHelper.formatsOrder": ["hsb", "rgb", "gray", "hex", "named"],
+  "colorHelper.formatsOrder": [
+    "hsb",
+    "rgb",
+    "gray",
+    "hex",
+    "named"
+  ],
   // YAML
   "yaml.format.singleQuote": true,
   // WIDTH
@@ -38,7 +44,6 @@
   "files.eol": "\n",
   "editor.parameterHints.cycle": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
-  "editor.suggest.maxVisibleSuggestions": 15,
   "window.newWindowDimensions": "inherit",
   "css.lint.compatibleVendorPrefixes": "warning",
   "css.lint.ieHack": "warning",
@@ -56,17 +61,14 @@
   ],
   "bracket-pair-colorizer-2.colorMode": "Independent",
   "discord.detailsIdle": "",
-  "discord.detailsEditing": "{workspace}/{dirname} ({totallines} lines)",
-  "discord.detailsDebugging": "{workspace}/{dirname} ({totallines} lines)",
-  "discord.lowerDetailsEditing": "{filename} ({filesize})",
-  "discord.lowerDetailsDebugging": "{filename} ({filesize})",
+  "discord.detailsEditing": "{workspace}/{dirname}",
+  "discord.detailsDebugging": "{workspace}/{dirname}",
+  "discord.lowerDetailsEditing": "{filename}",
   "discord.largeImage": "{LANG}",
   "discord.largeImageIdle": "Idle",
   "discord.lowerDetailsNotFound": "",
   "discord.workspaceElapsedTime": true,
   "discord.lowerDetailsIdle": "Idle",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "liveServer.settings.port": 8080,
   "workbench.tree.indent": 18,
   "workbench.startupEditor": "none",
   "workbench.commandPalette.history": 0,
@@ -79,7 +81,7 @@
   "python.formatting.provider": "yapf",
   "python.formatting.yapfArgs": [
     "--style",
-    "{USE_TABS: False, INDENT_WIDTH: 2, INDENT_BLANK_LINES: True, COLUMN_LIMIT: 120, SPACES_BEFORE_COMMENT: 1, BLANK_LINES_AROUND_TOP_LEVEL_DEFINITION: 1}"
+    "{USE_TABS: False, INDENT_WIDTH: 2, INDENT_BLANK_LINES: True, COLUMN_LIMIT: 120, SPACES_BEFORE_COMMENT: 1, BLANK_LINES_AROUND_TOP_LEVEL_DEFINITION: 1, BLANK_LINE_BEFORE_NESTED_CLASS_OR_DEF: False}"
   ],
   "html.format.enable": false,
   "git.autofetch": true,
@@ -98,14 +100,15 @@
   "prettier.quoteProps": "consistent",
   "prettier.trailingComma": "es5",
   "prettier.endOfLine": "auto",
-  "editor.formatOnSaveTimeout": 5000,
   "editor.maxTokenizationLineLength": 1000000,
   "terminal.integrated.rendererType": "dom",
   "terminal.integrated.scrollback": 2000,
   "editor.autoSurround": "never",
   "latex-workshop.view.pdf.viewer": "tab",
   "html.autoClosingTags": false,
-  "C_Cpp.default.includePath": ["/usr/bin/g++"],
+  "C_Cpp.default.includePath": [
+    "/usr/bin/g++"
+  ],
   "python.defaultInterpreterPath": "/usr/bin/python3",
   "python.languageServer": "Pylance",
   "python.analysis.typeCheckingMode": "basic",
@@ -119,6 +122,9 @@
   "zigLanguageClient.debugLog": true,
   "prettier.printWidth": 90,
   "eslint.format.enable": true,
-  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-  "css.lint.emptyRules": "ignore"
+  "css.lint.emptyRules": "ignore",
+  "terminal.explorerKind": "external",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "latex-workshop.message.update.show": false,
+  "discord.lowerDetailsDebugging": "{filename}"
 }
