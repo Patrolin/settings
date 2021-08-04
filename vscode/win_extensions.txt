@@ -1,29 +1,19 @@
-844196.vscode-php-symbol-rename
-bmewburn.vscode-intelephense-client
-CoenraadS.bracket-pair-colorizer-2
-coolbear.systemd-unit-file
-dbaeumer.vscode-eslint
-dtsvet.vscode-wasm
-esbenp.prettier-vscode
+jprestidge.theme-material-theme # sublime material theme
 eserozvataf.one-dark-pro-monokai-darker
-felixfbecker.php-debug
-ghmcadams.lintlens
-GitHub.vscode-pull-request-github
-goessner.mdmath
-IBM.output-colorizer
-icrawl.discord-vscode
-James-Yu.latex-workshop
-JoeBerria.statusbarerror
-jprestidge.theme-material-theme
-mechatroner.rainbow-csv
-ms-azuretools.vscode-docker
-ms-python.python
-ms-toolsai.jupyter
-ms-vscode-remote.remote-wsl
-ms-vscode.cpptools
 PKief.material-icon-theme
-redhat.vscode-yaml
+CoenraadS.bracket-pair-colorizer-2
+IBM.output-colorizer
+JoeBerria.statusbarerror
+# icrawl.discord-vscode
 srmeyers.git-prefix
-tiehuis.zig
+
+mechatroner.rainbow-csv
+redhat.vscode-xml
+redhat.vscode-yaml
+
 Zignd.html-css-class-completion
-ZixuanWang.linkerscript
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+ghmcadams.lintlens
+ms-python.python
+# tiehuis.zig
