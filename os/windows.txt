@@ -1,0 +1,47 @@
+Settings
+  System
+    Notifications & actions
+      Show me the Windows welcome experience after updates and occasionally when I sign in to highlight what's new and suggested Off
+      Get tips, tricks and suggestions as you use Windows Off
+    Focus assist
+      Focus assist Off
+    Power & sleep > Additional power settings
+      High-performance / custom power plan
+    Storage
+      *
+      Optimize Drives
+        * > Optimize
+    About > Advanced system settings > Advanced > Performance > Settings...
+      Visual Effects
+        Adjust for best performance
+      Advanced > Virtual memory > Change...
+        C:
+          No paging file
+          Set
+        D:
+          Custom size xxx
+          Set
+  Devices > Mouse > Additional mouse options > Pointer Options
+    Select pointer speed +2
+    Enhance pointer precision Off
+  Personalization > Colors
+    Transparency effects Off
+  Apps
+    Apps & features
+      * > Uninstall > Uninstall
+    Startup
+      * Off
+  Accounts > Sign-in options
+    Restart apps Off
+  Search > Searching Windows > Advanced Search Indexer Settings > Modify > Show all locations
+    * Off
+    C:/Users On
+  Privacy > Background Apps
+    Background Apps Off
+shutup10
+  # disable index and cortana search
+  # disable windows defender
+regedit
+ HKEY_LOCAL_MACHINE_ > SOFTWARE > Policies > Microsoft > Windows > WindowsUpdate
+  New Key AU
+    New DWORD AUOptions 2
