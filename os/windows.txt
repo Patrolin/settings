@@ -36,6 +36,7 @@ Settings
   Privacy > Background Apps
     Background Apps Off
 shutup10
+  disable aero shake?
   *
 regedit
  HKEY_LOCAL_MACHINE_ > SOFTWARE > Policies > Microsoft > Windows > WindowsUpdate
