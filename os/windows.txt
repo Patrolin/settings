@@ -42,8 +42,6 @@ Settings
 shutup10
   disable aero shake?
   *
-Services
-  Superfetch > Properties > Startup type Disabled
 regedit
  HKEY_LOCAL_MACHINE_ > SOFTWARE > Policies > Microsoft > Windows > WindowsUpdate
   New Key AU
