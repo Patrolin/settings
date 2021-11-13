@@ -183,6 +183,8 @@ yay -S pavucontrol jack2 carla
 # OPTIONS grp:alts_toggle, lv3:alt_switch, mod_led:compose, keypad:future, kpdl:dotoss, numpad:shift3, shift:both_shiftlock, compose:menu,nbsp:level2, terminate:ctrl_alt_bksp
 
 
+## openbox + tint2 + rofi is allegedly good
+
 
 ### Apps - WIP
 
