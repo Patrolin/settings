@@ -172,6 +172,8 @@ sudo systemctl disable getty@tty2.service
 
 ### Window Manager - WIP
 
+# issues to solve: touchpad, audio, nvidia drivers, automatic SSD trim
+
 # lspci -k | grep -A 2 -E "(VGA|3D)"
 yay -S xorg nvidia-xrun openbox
 ls /usr/share/sessions
