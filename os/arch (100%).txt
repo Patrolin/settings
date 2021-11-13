@@ -184,6 +184,14 @@ yay -S pavucontrol jack2 carla
 
 
 ## openbox + tint2 + rofi is allegedly good
+### .xinitrc start
+setxkbmap cz
+tint2 &
+nitrogen --restore &
+nm-applet &
+volumeicon &
+openbox
+### .xinitrd end
 
 
 ### Apps - WIP
