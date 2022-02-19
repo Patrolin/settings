@@ -50,7 +50,12 @@ chmod 600 /mnt/swapfile
 mkswap /mnt/swapfile
 swapon /mnt/swapfile
 
-# iwctl
+iwctl
+    $ device list
+    $ station wlan0 get-networks
+    $ station wlan0 connect <network>
+    $ <password>
+    $ quit
 ping 8.8.8.8
 
 reflector -l 5 --sort score --save /etc/pacman.d/mirrorlist
